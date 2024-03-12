@@ -35,8 +35,6 @@ PyTorch (for building and training the model)
 Scikit-learn (for evaluation metrics)
 OpenCV or PIL (for image preprocessing)
 Any additional libraries as required
-Contribution:
-Contributions to this project are welcome. If you have ideas for improvements or would like to report issues, please submit a pull request or open an issue on the project repository.
 
-Disclaimer:
+# Disclaimer:
 This model is intended to assist healthcare professionals in diagnosing pneumonia and should not be used as a substitute for professional medical advice.
